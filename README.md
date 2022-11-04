@@ -1,0 +1,2 @@
+# docs
+Lurn-lang documentation.
